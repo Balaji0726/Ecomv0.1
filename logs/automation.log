@@ -1,0 +1,36 @@
+2026-03-23 10:48:56 INFO  TC001_AccountRegister:16 - Starting Test case TC001
+2026-03-23 10:48:57 INFO  TC001_AccountRegister:21 - Clicked on my account
+2026-03-23 10:48:57 INFO  TC001_AccountRegister:24 - Clicked on register link
+2026-03-23 10:48:57 INFO  TC001_AccountRegister:27 - Providing customer details
+2026-03-23 10:48:57 INFO  TC001_AccountRegister:36 - Validating expected message
+2026-03-23 10:48:58 INFO  TC001_AccountRegister:53 - TC001 Execution completed
+2026-03-23 10:48:59 INFO  TC002_Login:17 - Starting Test case TC002
+2026-03-23 10:48:59 INFO  TC002_Login:20 - Clicked on my account
+2026-03-23 10:48:59 INFO  TC002_Login:22 - Clicked on login
+2026-03-23 10:48:59 INFO  TC002_Login:26 - Providing customer details
+2026-03-23 10:49:00 INFO  TC002_Login:31 - Validating expected page
+2026-03-23 10:49:00 INFO  TC002_Login:40 - TC002 Execution completed
+2026-03-23 10:52:17 INFO  TC001_AccountRegister:16 - Starting Test case TC001
+2026-03-23 10:52:18 INFO  TC001_AccountRegister:21 - Clicked on my account
+2026-03-23 10:52:18 INFO  TC001_AccountRegister:24 - Clicked on register link
+2026-03-23 10:52:18 INFO  TC001_AccountRegister:27 - Providing customer details
+2026-03-23 10:52:18 INFO  TC001_AccountRegister:36 - Validating expected message
+2026-03-23 10:52:18 INFO  TC001_AccountRegister:53 - TC001 Execution completed
+2026-03-23 10:52:20 INFO  TC002_Login:17 - Starting Test case TC002
+2026-03-23 10:52:20 INFO  TC002_Login:20 - Clicked on my account
+2026-03-23 10:52:20 INFO  TC002_Login:22 - Clicked on login
+2026-03-23 10:52:20 INFO  TC002_Login:26 - Providing customer details
+2026-03-23 10:52:20 INFO  TC002_Login:31 - Validating expected page
+2026-03-23 10:52:20 INFO  TC002_Login:40 - TC002 Execution completed
+2026-03-23 10:52:39 INFO  TC001_AccountRegister:16 - Starting Test case TC001
+2026-03-23 10:52:39 INFO  TC001_AccountRegister:21 - Clicked on my account
+2026-03-23 10:52:40 INFO  TC001_AccountRegister:24 - Clicked on register link
+2026-03-23 10:52:40 INFO  TC001_AccountRegister:27 - Providing customer details
+2026-03-23 10:52:40 INFO  TC001_AccountRegister:36 - Validating expected message
+2026-03-23 10:52:40 INFO  TC001_AccountRegister:53 - TC001 Execution completed
+2026-03-23 10:52:41 INFO  TC002_Login:17 - Starting Test case TC002
+2026-03-23 10:52:41 INFO  TC002_Login:20 - Clicked on my account
+2026-03-23 10:52:41 INFO  TC002_Login:22 - Clicked on login
+2026-03-23 10:52:42 INFO  TC002_Login:26 - Providing customer details
+2026-03-23 10:52:42 INFO  TC002_Login:31 - Validating expected page
+2026-03-23 10:52:42 INFO  TC002_Login:40 - TC002 Execution completed
